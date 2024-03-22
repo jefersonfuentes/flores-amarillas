@@ -119,6 +119,6 @@ canvas {
 
 @media (max-width: 468px) {
     body {
-        background: linear-gradient(100deg, blue, purple, pink);
+        background: white;
     }
 }
